@@ -1,0 +1,12 @@
+# TUPLE IS AN IMMUTABLE DATA TYPE IN PYTHON
+
+# IT IS A EMPTY TUPLE** YOU CAN NOT CHANGE A TUPLE WITH TYPE FUNCTION
+a = ()
+print(type(a)) 
+
+# IT IS THE CORRECT EMPTY TUPLE IF U WANT TO STORE ONLY ONE NUMBER
+b = (1,)
+print(type(a)) 
+
+c = (1,256,"Kartik",False)
+print(type(c))

@@ -1,7 +1,7 @@
                              # Data Types 
-            # a variable name can only starts with a letter or a underscore
-            # a variable name cannot start with a number
-            # no spaces are allowed in variable names
+# a variable name can only starts with a letter or a underscore
+# a variable name cannot start with a number
+# no spaces are allowed in variable names
 
 a = 1 # 1 is a integer
 

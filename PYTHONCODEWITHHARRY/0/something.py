@@ -1,10 +1,17 @@
-# TYPE FUNCTION
-# a = "10.00"
-# print(type(a))
-
-# INPUT function
-Name = input("Enter your Name:")
-print("Hello", Name)
-
-age = int(input("Enter your age:"))
-print("Your age is:",age)
+print("PROBLEM-1.")
+print("TO PRINT A TWINKLE TWINKLE LITTLE STAR POEM")
+print('''teindlkflkdsjfl fdsflklkjds djfjTwinkle, twinkle, little star,
+How I wonder what you are!
+Up above the world so high,
+Like a diamond in the sky.
+When the blazing sun is gone,
+When he nothing shines upon,
+Then you show your little light,
+Twinkle, twinkle, all the night.
+Then the traveler in the dark
+Thanks you for your tiny spark,
+How could he see where to go,
+If you did not twinkle so
+In the dark blue sky you keep,
+Often through my curtains peep
+For you never shut you''')

@@ -12,3 +12,4 @@ b = 3.14  # float
 c = "name" #String
 d = True,False
 print(a,b,c,d)
+
